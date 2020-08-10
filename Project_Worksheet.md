@@ -1,5 +1,9 @@
 # capstone_project
 
+## Project Links
+- [Front-end repo](https://github.com/DavidSwanberg/capstone_frontend)
+- [Back-end repo](https://github.com/DavidSwanberg/capstone_backend)
+
 ## Planning (Wireframes, Models, React Architecture, etc.)
 - [Miro link](https://miro.com/app/board/o9J_knv0Oyg=/)
 
@@ -30,5 +34,5 @@ utilize token based application to accomplish this. The user interface will be w
 | Profile functionaility | H | 5hrs| - | - |
 | Styling | M | 10 hrs| - | - |
 | About Page | M | 1 hrs| - | - |
-| Debugging | L | 5 hrs | 1hr| 1hr |
+| Debugging | L | 5 hrs |   - | - |
 | Total | H | 52hrs| - | - |
