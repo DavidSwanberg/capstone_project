@@ -46,9 +46,9 @@ utilize token based application to accomplish this. The user interface will be w
   - Backend deployment/building out frontend
 - Friday 8/14 - Saturday 8/15
   - Frontend funcionality built. begin styling?
-- Monday 8/16
+- Monday 8/17
   - styling
-- Tuesday 8//17
+- Tuesday 8//18
   - deployment/debugging
 
 ## Additional Libraries
