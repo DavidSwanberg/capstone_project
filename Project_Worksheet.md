@@ -36,3 +36,28 @@ utilize token based application to accomplish this. The user interface will be w
 | About Page | M | 1 hrs| - | - |
 | Debugging | L | 5 hrs |   - | - |
 | Total | H | 52hrs| - | - |
+
+## Timeline
+- Tuesday 8/11
+  - Authentication
+- Wednseday 8/12
+  - Authentication/Building Backend
+- Thurday 8/13
+  - Backend deployment/building out frontend
+- Friday 8/14 - Saturday 8/15
+  - Frontend funcionality built. begin styling?
+- Monday 8/16
+  - styling
+- Tuesday 8//17
+  - deployment/debugging
+
+## Additional Libraries
+- Axios
+- Styled Components
+
+## Code Snippet
+
+
+```
+// dope code goes here
+```
